@@ -3,7 +3,7 @@
 
 ##
 
-Ello! I'm Manik. Just your regular school-going, MUN and Debate loving, and coding student!(?)
+hello
 
 I use Fedora 43, and Gnome 49.2 (whatever the latest is for both basically if this is outdated)
 

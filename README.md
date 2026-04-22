@@ -7,9 +7,9 @@ hello
 
 I use Fedora 43, and Gnome 49.2 (whatever the latest is for both basically if this is outdated)
 
-Im quirky! Instead of using Obsidian like EVERYONE ELSE ive made my own shitty app! (its becoming better tho! https://cairn.vncl.xyz)
+i am very cool :cool: 😎 Instead of using Obsidian like EVERYONE ELSE ive made my own shitty app! (supabase is banned ;-; https://cairn.vncl.xyz)
 
-uhh yea normal ts like VSCode, Arduino IDE, Godot (making a game rn!) and also use Ghostty instead of the Gnome Terminal (https://ghostty.org) and Zen for browsing (Im quirky like dat :3)
+uhh yea normal ts like VSCode, Arduino IDE, Godot (making a game rn!) and also use Ghostty instead of the Gnome Terminal (https://ghostty.org) and Helium for browser (it is actually so good)
 
 Svelte is amazing (only js fw im using, next.js is too hard to learn smh)
 Flutter is ehhhh idrc it and its kinda hard but like k ig

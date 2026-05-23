@@ -12,7 +12,6 @@ i am very cool :cool: 😎 Instead of using Obsidian like EVERYONE ELSE ive made
 uhh yea normal shiz like VSCode, Arduino IDE, Godot sometimes when i get some stuff and also use Alacritty with tmux instead of the Gnome Terminal [alacritty](https://alacritty.org/) and Helium for browser (it is actually so good)
 
 Svelte is amazing (only js fw im using, next.js is too hard to learn smh)
-Flutter is ehhhh idrc it and its kinda hard but like k ig
 
 
 ##

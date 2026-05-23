@@ -7,7 +7,7 @@ hello
 
 I use Fedora 43, and Gnome 49.2 (whatever the latest is for both basically if this is outdated)
 
-i am very cool :cool: 😎 Instead of using Obsidian like EVERYONE ELSE ive made my own shitty app! (supabase is banned ;-; [link here](https://cairn.vncl.xyz) OH ALSO IVE MADE A GTK APP [here](https://github.com/sudoFahh/nimble-gtk))
+i am very cool :cool: 😎 Instead of using Obsidian like EVERYONE ELSE ive made my own webapp! ([link here](https://cairn.vncl.xyz) OH ALSO IVE MADE A GTK APP [here](https://github.com/sudoFahh/nimble-gtk))
 
 uhh yea normal shiz like VSCode, Arduino IDE, Godot sometimes when i get some stuff and also use Alacritty with tmux instead of the Gnome Terminal [alacritty](https://alacritty.org/) and Helium for browser (it is actually so good)
 
